@@ -2,6 +2,8 @@
 
 > A project management kanban dashboard with bun, vite & react.
 
+![banner](./public/shuffle.png)
+
 ## Available Scripts
 
 ```bash
